@@ -16,7 +16,7 @@ Thumbs.db
 local.properties
 *.keystore
 *.jks
-CLAUDE.md
+
 
 # Project exclude paths
 /feature/account/build/
